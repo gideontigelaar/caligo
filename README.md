@@ -1,4 +1,4 @@
-# Java Game Engine
+# Caligo
 A custom game engine built in Java using LWJGL.
 
 ## Project structure
